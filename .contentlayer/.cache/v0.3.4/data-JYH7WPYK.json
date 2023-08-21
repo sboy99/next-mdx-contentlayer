@@ -1,0 +1,27 @@
+{
+  "cacheItemsMap": {
+    "hello.mdx": {
+      "document": {
+        "title": "My First Post",
+        "date": "2021-12-24T00:00:00.000Z",
+        "body": {
+          "raw": "\nUllamco et nostrud magna commodo nostrud ...\n",
+          "html": "<p>Ullamco et nostrud magna commodo nostrud ...</p>"
+        },
+        "_id": "hello.mdx",
+        "_raw": {
+          "sourceFilePath": "hello.mdx",
+          "sourceFileName": "hello.mdx",
+          "sourceFileDir": ".",
+          "contentType": "mdx",
+          "flattenedPath": "hello"
+        },
+        "type": "Post",
+        "url": "/posts/hello"
+      },
+      "documentHash": "1692622329593",
+      "hasWarnings": false,
+      "documentTypeName": "Post"
+    }
+  }
+}
